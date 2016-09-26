@@ -4,7 +4,7 @@ Create a PHP application that allows logged in users to create products and appr
 
 ## Requirements
 
-* You must be built using the Laravel PHP framework.
+* Must be built using the Laravel PHP framework.
 * You must fork this repository and and send your completed project as a single pull request.
 * Your project must be deployed to either a Heroku instance or an Amazon EC2 instance.
 * A default user must be created when seeding the database.
